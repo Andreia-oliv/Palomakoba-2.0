@@ -1,5 +1,5 @@
 
-# PALOMAKOBA - Projeto de capacitação e desenvolvimento de softwares para dispositivos móveis
+# PALOMAKOBA - Projeto de Capacitação e Desenvolvimento de Softwares para Dispositivos Móveis
 
 Repositório voltado aos projetos realizados no curso de extensão [PALOMAKOBA - Projeto de capacitação e desenvolvimento de softwares para dispositivos móveis](https://palomakoba.unir.br/homepage).
 
